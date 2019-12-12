@@ -16,5 +16,5 @@ Buscar un cliente a traves de rut.
 Modificar un cliente a traves de rut.
 
 Eliminar un cliente a traves de rut.
-__
+---------
 Examen final Desarrollo Web.
